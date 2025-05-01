@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Windows 10\\Desktop\\C#\\exercicio7\\exercicio7.csproj": {}
+    "/Users/joabe/Linguagens/c#/trabalho-logico-csharp/exercicio7/exercicio7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Windows 10\\Desktop\\C#\\exercicio7\\exercicio7.csproj": {
+    "/Users/joabe/Linguagens/c#/trabalho-logico-csharp/exercicio7/exercicio7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Windows 10\\Desktop\\C#\\exercicio7\\exercicio7.csproj",
+        "projectUniqueName": "/Users/joabe/Linguagens/c#/trabalho-logico-csharp/exercicio7/exercicio7.csproj",
         "projectName": "exercicio7",
-        "projectPath": "C:\\Users\\Windows 10\\Desktop\\C#\\exercicio7\\exercicio7.csproj",
-        "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Windows 10\\Desktop\\C#\\exercicio7\\obj\\",
+        "projectPath": "/Users/joabe/Linguagens/c#/trabalho-logico-csharp/exercicio7/exercicio7.csproj",
+        "packagesPath": "/Users/joabe/.nuget/packages/",
+        "outputPath": "/Users/joabe/Linguagens/c#/trabalho-logico-csharp/exercicio7/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/joabe/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

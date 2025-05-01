@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joabe/Linguagens/c#/trabalho-logico-csharp/exercicio5/exercicio5.csproj": {}
+    "/Users/joabe/Linguagens/c#/trabalho-logico-csharp/exercicio9/exercicio9.csproj": {}
   },
   "projects": {
-    "/Users/joabe/Linguagens/c#/trabalho-logico-csharp/exercicio5/exercicio5.csproj": {
+    "/Users/joabe/Linguagens/c#/trabalho-logico-csharp/exercicio9/exercicio9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joabe/Linguagens/c#/trabalho-logico-csharp/exercicio5/exercicio5.csproj",
-        "projectName": "exercicio5",
-        "projectPath": "/Users/joabe/Linguagens/c#/trabalho-logico-csharp/exercicio5/exercicio5.csproj",
+        "projectUniqueName": "/Users/joabe/Linguagens/c#/trabalho-logico-csharp/exercicio9/exercicio9.csproj",
+        "projectName": "exercicio9",
+        "projectPath": "/Users/joabe/Linguagens/c#/trabalho-logico-csharp/exercicio9/exercicio9.csproj",
         "packagesPath": "/Users/joabe/.nuget/packages/",
-        "outputPath": "/Users/joabe/Linguagens/c#/trabalho-logico-csharp/exercicio5/obj/",
+        "outputPath": "/Users/joabe/Linguagens/c#/trabalho-logico-csharp/exercicio9/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/joabe/.nuget/NuGet/NuGet.Config"
