@@ -6,6 +6,9 @@
 - 
 
 ## Exercícios Resolvidos
+- Exercício 5 – Verificador de Palíndromos
+- Exercício 6 – Cadastro Simples de Produtos
+- Exercício 7 – Soma de Números Pares de um Array
 - Exercício 8 – Cálculo de IMC com Classificação
 - Exercício 9 – Jogo da Adivinhação
 - Exercício 10 – Lista de Tarefas (To-Do List)
