@@ -34,12 +34,6 @@
 
 ### Justificativas do método adotado:
 
-Sim, as justificativas que você escreveu estão claras, mas podem ser ajustadas um pouco para garantir que qualquer leitor, mesmo sem um conhecimento profundo de programação, consiga entender facilmente a escolha das estruturas e métodos. Vou sugerir uma reformulação para torná-las ainda mais acessíveis:
-
----
-
-### Justificativas do método adotado:
-
 - Estrutura do...while: A estrutura do...while foi escolhida porque ela garante que o código dentro do laço será executado pelo menos uma vez. Isso é importante no caso deste jogo, pois o jogador precisa fazer ao menos uma tentativa. Além disso, o laço continuará sendo executado até que o jogador acerte o número, permitindo que o jogo aconteça de forma contínua.
 
 - Uso da classe Random: Utilizamos a classe Random para gerar o número secreto de forma aleatória. Isso é essencial para garantir que o número a ser adivinhado seja imprevisível, criando um desafio verdadeiro para o jogador. O método random.Next(1, 101) gera um número aleatório entre 1 e 100, oferecendo um intervalo apropriado para o jogo.
