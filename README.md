@@ -27,4 +27,4 @@ Este programa permite ao usuário criar e gerenciar uma lista de tarefas. É pos
 - Listar todas as tarefas (com indicação se estão concluídas ou não)
 - Marcar tarefas específicas como concluídas
 
-As tarefas são armazenadas em uma `List<string>` e o status de conclusão é gerenciado com uma `List<bool>`. O sistema opera por meio de um menu interativo no console.
+As tarefas são armazenadas em uma List<string> e o status de conclusão é gerenciado com uma List<bool>. O sistema opera por meio de um menu interativo no console.

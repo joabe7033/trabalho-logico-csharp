@@ -14,27 +14,36 @@
 
 ### Estruturas e comandos utilizados:
 
-- `Random random = new Random();`  
-  Utiliza a classe `Random` da biblioteca padrão do C# para gerar um número aleatório. O método `random.Next(1, 101)` gera um número entre 1 (inclusive) e 101 (exclusivo), ou seja, de 1 a 100.
+- Random random = new Random();  
+  Utiliza a classe Random da biblioteca padrão do C# para gerar um número aleatório. O método random.Next(1, 101)gera um número entre 1 (inclusive) e 101 (exclusivo), ou seja, de 1 a 100.
 
-- `int tentativa; int contador = 0;`  
+- int tentativa; int contador = 0; 
   Declara as variáveis que armazenarão a tentativa do usuário e o número de tentativas realizadas.
 
-- `Console.WriteLine(...)` / `Console.Write(...)`  
+- Console.WriteLine(...) / Console.Write(...)  
   Comandos para exibir mensagens no terminal e solicitar a entrada do usuário.
 
-- `Console.ReadLine()` e `int.Parse(...)`  
+- Console.ReadLine() e int.Parse(...)  
   Lê a entrada do usuário em formato de texto e converte para inteiro.
 
-- Estrutura `do...while`  
+- Estrutura do...while
   Usada para garantir que o usuário faça pelo menos uma tentativa e continue tentando até acertar o número.
 
-- Estrutura condicional `if...else if...else`  
+- Estrutura condicional if...else if...else 
   Compara a tentativa com o número secreto e imprime uma dica ou o resultado final.
 
 ### Justificativas do método adotado:
 
-- A escolha da estrutura `do...while` garante que o bloco de tentativas seja executado pelo menos uma vez, o que é ideal para esse tipo de jogo.
-- O uso da classe `Random` é adequado para gerar números de forma imprevisível, simulando o comportamento de um "número secreto".
-- A variável `contador` permite contabilizar as tentativas, o que torna o jogo mais interessante e oferece feedback ao usuário.
-- A lógica de comparação com `if` permite dar dicas ao jogador (se o número é maior ou menor), tornando a experiência mais interativa e guiada.
+Sim, as justificativas que você escreveu estão claras, mas podem ser ajustadas um pouco para garantir que qualquer leitor, mesmo sem um conhecimento profundo de programação, consiga entender facilmente a escolha das estruturas e métodos. Vou sugerir uma reformulação para torná-las ainda mais acessíveis:
+
+---
+
+### Justificativas do método adotado:
+
+- Estrutura do...while: A estrutura do...while foi escolhida porque ela garante que o código dentro do laço será executado pelo menos uma vez. Isso é importante no caso deste jogo, pois o jogador precisa fazer ao menos uma tentativa. Além disso, o laço continuará sendo executado até que o jogador acerte o número, permitindo que o jogo aconteça de forma contínua.
+
+- Uso da classe Random: Utilizamos a classe Random para gerar o número secreto de forma aleatória. Isso é essencial para garantir que o número a ser adivinhado seja imprevisível, criando um desafio verdadeiro para o jogador. O método random.Next(1, 101) gera um número aleatório entre 1 e 100, oferecendo um intervalo apropriado para o jogo.
+
+- Variável contador: A variável contador serve para contar o número de tentativas feitas pelo jogador. Isso não só permite ao programa saber quando o jogador acertou, como também fornece um feedback sobre quantas tentativas foram necessárias, tornando o jogo mais envolvente e desafiador.
+
+- Estrutura condicional if...else if...else: A lógica de comparação entre a tentativa do jogador e o número secreto é feita usando a estrutura if...else if...else. Isso permite ao programa fornecer dicas ao jogador sobre se o número secreto é maior ou menor do que o que ele tentou. Essas dicas tornam a experiência de adivinhar mais interativa e ajudam o jogador a chegar à resposta correta de maneira guiada.
