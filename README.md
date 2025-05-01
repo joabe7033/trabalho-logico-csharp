@@ -2,7 +2,7 @@
 
 ## Integrantes do Grupo
 - Joabe Ramos Leal
-- 
+- Jaques de Oliveira Vasconcelos
 - 
 
 ## Exercícios Resolvidos
@@ -13,6 +13,15 @@
 - Exercício 9 – Jogo da Adivinhação
 - Exercício 10 – Lista de Tarefas (To-Do List)
 ## Descrições Funcionais
+
+### Exercício 5 – Verificador de Palíndromos
+Este programa solicita ao usuário uma palavra ou frase. Em seguida, ele analisará o texto, ignorando acentuação e espaços, para verificar se a string é um palíndromo (ou seja, se permanece igual quando lida de trás para frente).
+
+### Exercício 6 – Cadastro Simples de Produtos 
+Este programa solicita ao usuário o nome, a quantidade e o valor de 3 instâncias da classe Produto. Em seguida, ele retornará uma lista com a quantidade e o valor total (preço × quantidade) de cada produto.
+
+### Exercício 7 – Soma de Números Pares de um Array
+Este programa solicita ao usuário 10 números. Apenas os números pares serão considerados para a soma, cujo resultado será exibido ao final.
 
 ### Exercício 8 – Cálculo de IMC com Classificação
 Este programa solicita ao usuário seu peso (em kg) e altura (em metros), calcula o Índice de Massa Corporal (IMC) e informa a classificação correspondente com base nos padrões da Organização Mundial da Saúde:
