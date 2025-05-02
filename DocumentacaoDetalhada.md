@@ -1,5 +1,43 @@
 # Documentação Detalhada
 
+## Exercício 5 – Verificador de Palíndromos
+### Passo a passo lógico para a resolução:
+1. Solicitar ao usuário que digite uma palavra ou frase.
+2. Remover espaços em branco e acentos de todos os caracteres.
+3. Inverter o texto.
+4. Comparar o texto original (tratado) com o texto invertido:
+   -Se forem iguais, a entrada é um palíndromo.
+   -Caso contrário, não é um palíndromo.
+5. Exibir o resultado da verificação ao usuário.
+
+### Estruturas e comandos utilizados:
+
+- Console.WriteLine(...) / Console.ReadLine()
+Usados para exibir mensagens e capturar a entrada do usuário.
+
+- string.ToLower()
+Converte todos os caracteres para minúsculas, garantindo que a comparação não seja afetada por diferenças de maiúsculas/minúsculas.
+
+- string.Replace(...)
+Remove espaços da frase para que não interfiram na verificação.
+
+- Normalize(...) com CharUnicodeInfo.GetUnicodeCategory(...)
+Utilizados para remover acentos e sinais diacríticos do texto, permitindo uma comparação limpa.
+
+- Array.Reverse(...)
+Reverte os caracteres da string, essencial para comparar o texto invertido com o original.
+
+- if...else
+Estrutura condicional utilizada para verificar se o texto original tratado é igual ao texto invertido.
+
+### Justificativa do método adotado:
+
+- Remoção de espaços e acentos: É comum que palíndromos contenham espaços ou acentuação, mas essas características não devem afetar o resultado. Por isso são removidas
+
+- Inversão de string com Array.Reverse: A maneira mais simples de comparar um texto com sua versão invertida.
+
+- Estrutura condicional if...else: Permite identificar se a entrada corresponde a um palíndromo para exibir o resultado.
+
 ## Exercício 9 – Jogo da Adivinhação
 
 ### Passo a passo lógico para a resolução:
