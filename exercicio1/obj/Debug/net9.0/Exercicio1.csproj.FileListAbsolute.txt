@@ -1,0 +1,15 @@
+C:\Users\mine7\Downloads\Linguagens\trabalho-logico-csharp\Exercicio1\bin\Debug\net9.0\Exercicio1.exe
+C:\Users\mine7\Downloads\Linguagens\trabalho-logico-csharp\Exercicio1\bin\Debug\net9.0\Exercicio1.deps.json
+C:\Users\mine7\Downloads\Linguagens\trabalho-logico-csharp\Exercicio1\bin\Debug\net9.0\Exercicio1.runtimeconfig.json
+C:\Users\mine7\Downloads\Linguagens\trabalho-logico-csharp\Exercicio1\bin\Debug\net9.0\Exercicio1.dll
+C:\Users\mine7\Downloads\Linguagens\trabalho-logico-csharp\Exercicio1\bin\Debug\net9.0\Exercicio1.pdb
+C:\Users\mine7\Downloads\Linguagens\trabalho-logico-csharp\Exercicio1\obj\Debug\net9.0\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mine7\Downloads\Linguagens\trabalho-logico-csharp\Exercicio1\obj\Debug\net9.0\Exercicio1.AssemblyInfoInputs.cache
+C:\Users\mine7\Downloads\Linguagens\trabalho-logico-csharp\Exercicio1\obj\Debug\net9.0\Exercicio1.AssemblyInfo.cs
+C:\Users\mine7\Downloads\Linguagens\trabalho-logico-csharp\Exercicio1\obj\Debug\net9.0\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\mine7\Downloads\Linguagens\trabalho-logico-csharp\Exercicio1\obj\Debug\net9.0\Exercicio1.sourcelink.json
+C:\Users\mine7\Downloads\Linguagens\trabalho-logico-csharp\Exercicio1\obj\Debug\net9.0\Exercicio1.dll
+C:\Users\mine7\Downloads\Linguagens\trabalho-logico-csharp\Exercicio1\obj\Debug\net9.0\refint\Exercicio1.dll
+C:\Users\mine7\Downloads\Linguagens\trabalho-logico-csharp\Exercicio1\obj\Debug\net9.0\Exercicio1.pdb
+C:\Users\mine7\Downloads\Linguagens\trabalho-logico-csharp\Exercicio1\obj\Debug\net9.0\Exercicio1.genruntimeconfig.cache
+C:\Users\mine7\Downloads\Linguagens\trabalho-logico-csharp\Exercicio1\obj\Debug\net9.0\ref\Exercicio1.dll
